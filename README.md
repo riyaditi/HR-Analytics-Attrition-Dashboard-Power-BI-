@@ -143,3 +143,4 @@ Based on the analysis, the following actions are recommended:
 - Use **geo-based insights** to identify and address location-specific workforce challenges.  
 
 By acting on these insights, the company can improve employee satisfaction, reduce attrition, and build a more stable and productive workforce.
+<img width="1536" height="1024" alt="Overview Image" src="https://github.com/user-attachments/assets/9035c0a5-21ba-43e3-ada2-5bd7986d452b" />
